@@ -5,6 +5,7 @@
 (require 'prelude-company)
 
 (require 'prelude-c)
+(require 'prelude-go)
 (require 'prelude-clojure)
 ;; (require 'prelude-coffee)
 (require 'prelude-common-lisp)
