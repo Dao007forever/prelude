@@ -2,7 +2,7 @@
 (setq prelude-guru nil)
 
 (require 'prelude-ido) ;; Super charges Emacs completion for C-x C-f and more
-(require 'prelude-company)
+;(require 'prelude-company)
 
 (require 'prelude-c)
 (require 'prelude-go)
