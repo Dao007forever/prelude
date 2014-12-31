@@ -1,8 +1,9 @@
 ;;; Uncomment the modules you'd like to use and restart Prelude afterwards
 (setq prelude-guru nil)
 
-(require 'prelude-ido) ;; Super charges Emacs completion for C-x C-f and more
-;(require 'prelude-company)
+;; (require 'prelude-ido) ;; Super charges Emacs completion for C-x C-f and more
+;; (require 'prelude-company)
+(require 'prelude-helm-everywhere)
 
 (require 'prelude-c)
 (require 'prelude-go)
